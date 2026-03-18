@@ -2,9 +2,9 @@
 
 ## Author
 
-* **Name**: ________________________________
-* **Register Number**: _____________________
-* **Date of Submission**: __________________
+* **Name**: __AANANDHA KANNAN S______________________________
+* **Register Number**: ___212224040003__________________
+* **Date of Submission**: ___18-03-2026_______________
 
 ---
 
@@ -84,31 +84,39 @@ Test the database server by connecting to it locally or remotely and performing 
 
 (Write the steps you followed in your own words)
 
-1. ---
-2. ---
-3. ---
-4. ---
-5. ---
+1. Launch EC2 instance with Amazon Linux 2.
 
----
+2.Configure security group for SSH and DB port.
+
+3.Connect to instance through SSH.
+
+4.Install MySQL/MariaDB/PostgreSQL.
+
+5.Start DB service and configure security basics.
+
+6.Create sample database, table, and insert records.
+
+7.Test local and remote database connectivity.
 
 ## Output Screenshots (Attach 3)
 
 ### Screenshot 1: EC2 Instance for Database Server
 
-(Insert Screenshot Here)
+<img width="676" height="335" alt="image" src="https://github.com/user-attachments/assets/2644b03d-0b11-4248-a5fd-131f8246c7b5" />
+
 
 ---
 
 ### Screenshot 2: Database Service Running
 
-(Insert Screenshot Here)
+<img width="676" height="330" alt="image" src="https://github.com/user-attachments/assets/9158861d-fb9a-4434-a99d-7debfc239170" />
+
 
 ---
 
 ### Screenshot 3: Sample Database and Table
 
-(Insert Screenshot Here)
+<img width="618" height="322" alt="image" src="https://github.com/user-attachments/assets/5f9fa488-4cda-498a-bbfd-4165db398c2b" />
 
 ---
 
